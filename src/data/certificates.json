@@ -1,0 +1,39 @@
+[
+  {
+    "title": "Energy Performance Certificate (EPC)",
+    "status": "Valid",
+    "issuedBy": "Energy Agency",
+    "expiry": "2027-03-15"
+  },
+  {
+    "title": "LEED Certification",
+    "status": "Platinum",
+    "issuedBy": "USGBC",
+    "expiry": "2030-01-01"
+  },
+  {
+    "title": "BREEAM Certificate",
+    "status": "Excellent",
+    "issuedBy": "BRE Group",
+    "expiry": "2029-06-30",
+    "highlighted": true
+  },
+  {
+    "title": "Fire Safety Certificate",
+    "status": "Valid",
+    "issuedBy": "Local Fire Department",
+    "expiry": "2026-09-20"
+  },
+  {
+    "title": "Seismic Safety Certificate",
+    "status": "Compliant",
+    "issuedBy": "Structural Authority",
+    "expiry": "2031-12-01"
+  },
+  {
+    "title": "Noise/Acoustic Compliance",
+    "status": "Compliant",
+    "issuedBy": "Accredited Lab",
+    "expiry": "2028-04-12"
+  }
+]
